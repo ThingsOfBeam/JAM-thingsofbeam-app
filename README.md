@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+My JAM Stack application (backend)
